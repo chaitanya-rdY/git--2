@@ -1,8 +1,1 @@
-#include<iostream>
-using namespace std;
-int main(){
-    int x;
-    cin>>x;
-    cout<<"number"<<x;
-    return 0;
-}
+//this is for testing///
