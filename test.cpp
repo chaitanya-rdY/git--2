@@ -3,6 +3,6 @@ using namespace std;
 int main(){
     int x;
     cin>>x;
-    cout<<X;
+    cout<<x;
     return 0;
 }
