@@ -3,6 +3,6 @@ using namespace std;
 int main(){
     int x;
     cin>>x;
-    cout<<"number"<<x;
+    cout<<X;
     return 0;
 }
